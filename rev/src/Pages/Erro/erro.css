@@ -1,0 +1,22 @@
+.notFound{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.notFound img{
+    width:404px;
+    height:404px;
+}
+
+.notFound a{
+    background-color: lightskyblue;
+    text-decoration: none;
+    font-weight: bolder;
+    color:white;
+    padding:10px;
+    font-size:20px;
+    text-shadow: black  3px 3px 3px;
+}
